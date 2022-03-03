@@ -1,0 +1,13 @@
+.id{
+    margin-left: 500px;
+}
+.id1{
+    margin-right: 0px;
+}
+.class{
+    background: dodgerblue;
+}
+#p{
+    display:flex;
+    flex-direction: column;
+}
